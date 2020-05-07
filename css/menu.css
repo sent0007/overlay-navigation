@@ -143,3 +143,8 @@
   transition: color 0.4s ease;
   font-weight: 400;
 }
+
+.nav-link:hover {
+  color: #fe7b83;
+  transition: 0.2s ease; 
+}
